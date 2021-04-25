@@ -3,11 +3,11 @@
   <title>Crescent_P</title>
   
   <subtitle>Crescent_P&#39;Blog</subtitle>
-  <link href="https://github.com/CrescentP/atom.xml" rel="self"/>
+  <link href="https://github.com/CrescentP/CrescentP.github.io/atom.xml" rel="self"/>
   
-  <link href="https://github.com/CrescentP/"/>
+  <link href="https://github.com/CrescentP/CrescentP.github.io/"/>
   <updated>2021-04-25T03:35:34.884Z</updated>
-  <id>https://github.com/CrescentP/</id>
+  <id>https://github.com/CrescentP/CrescentP.github.io/</id>
   
   <author>
     <name>Caopeng</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>My New Post</title>
-    <link href="https://github.com/CrescentP/2021/04/25/my-new-post/"/>
-    <id>https://github.com/CrescentP/2021/04/25/my-new-post/</id>
+    <link href="https://github.com/CrescentP/CrescentP.github.io/2021/04/25/my-new-post/"/>
+    <id>https://github.com/CrescentP/CrescentP.github.io/2021/04/25/my-new-post/</id>
     <published>2021-04-25T03:33:09.000Z</published>
     <updated>2021-04-25T03:35:34.884Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/CrescentP/2021/04/25/hello-world/"/>
-    <id>https://github.com/CrescentP/2021/04/25/hello-world/</id>
+    <link href="https://github.com/CrescentP/CrescentP.github.io/2021/04/25/hello-world/"/>
+    <id>https://github.com/CrescentP/CrescentP.github.io/2021/04/25/hello-world/</id>
     <published>2021-04-25T03:30:41.605Z</published>
     <updated>2021-04-25T03:30:41.605Z</updated>
     
