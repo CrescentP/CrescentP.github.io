@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Crescent_P</title>
   
+  <subtitle>Crescent_P&#39;Blog</subtitle>
+  <link href="https://github.com/CrescentP/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
+  <link href="https://github.com/CrescentP/"/>
   <updated>2021-04-25T03:35:34.884Z</updated>
-  <id>http://example.com/</id>
+  <id>https://github.com/CrescentP/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Caopeng</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>My New Post</title>
-    <link href="http://example.com/2021/04/25/my-new-post/"/>
-    <id>http://example.com/2021/04/25/my-new-post/</id>
+    <link href="https://github.com/CrescentP/2021/04/25/my-new-post/"/>
+    <id>https://github.com/CrescentP/2021/04/25/my-new-post/</id>
     <published>2021-04-25T03:33:09.000Z</published>
     <updated>2021-04-25T03:35:34.884Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/04/25/hello-world/"/>
-    <id>http://example.com/2021/04/25/hello-world/</id>
+    <link href="https://github.com/CrescentP/2021/04/25/hello-world/"/>
+    <id>https://github.com/CrescentP/2021/04/25/hello-world/</id>
     <published>2021-04-25T03:30:41.605Z</published>
     <updated>2021-04-25T03:30:41.605Z</updated>
     
