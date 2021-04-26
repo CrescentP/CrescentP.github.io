@@ -8,7 +8,7 @@
       <link href="2021/04/26/hello-hexo/"/>
       <url>2021/04/26/hello-hexo/</url>
       
-        <content type="html"><![CDATA[<h1 id="在hexo写下的第一篇博客"><a href="#在hexo写下的第一篇博客" class="headerlink" title="在hexo写下的第一篇博客"></a>在hexo写下的第一篇博客</h1><h2 id="1-测试代码输出"><a href="#1-测试代码输出" class="headerlink" title="1.测试代码输出"></a>1.测试代码输出</h2><pre class=" language-c++"><code class="language-c++">#include <bits/stdc++.h>using namespace std;int main()&#123;    cout << "Hello hexo" << endl;&#125;</code></pre><h2 id="2-测试图片输出"><a href="#2-测试图片输出" class="headerlink" title="2.测试图片输出"></a>2.测试图片输出</h2><p><img src="hello-hexo.assets/Test.png" alt="Test"></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="在hexo写下的第一篇博客"><a href="#在hexo写下的第一篇博客" class="headerlink" title="在hexo写下的第一篇博客"></a>在hexo写下的第一篇博客</h1><h2 id="1-测试代码输出"><a href="#1-测试代码输出" class="headerlink" title="1.测试代码输出"></a>1.测试代码输出</h2><pre class=" language-c++"><code class="language-c++">#include <bits/stdc++.h>using namespace std;int main()&#123;    cout << "Hello hexo" << endl;&#125;</code></pre><h2 id="2-测试图片输出"><a href="#2-测试图片输出" class="headerlink" title="2.测试图片输出"></a>2.测试图片输出</h2><img src="/2021/04/26/hello-hexo/Test.png" class="" title="This is an Test image">]]></content>
       
       
       
