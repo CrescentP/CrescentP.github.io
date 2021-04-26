@@ -4,13 +4,23 @@
   
     
     <entry>
-      <title>My New Post</title>
-      <link href="2021/04/25/my-new-post/"/>
-      <url>2021/04/25/my-new-post/</url>
+      <title>hello hexo</title>
+      <link href="2021/04/26/hello-hexo/"/>
+      <url>2021/04/26/hello-hexo/</url>
       
-        <content type="html"><![CDATA[<h2 id="曹鹏太帅了吧"><a href="#曹鹏太帅了吧" class="headerlink" title="曹鹏太帅了吧"></a>曹鹏太帅了吧</h2>]]></content>
+        <content type="html"><![CDATA[<h1 id="你好"><a href="#你好" class="headerlink" title="你好"></a>你好</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><pre class=" language-c++"><code class="language-c++">#include <bits/stdc++.h>using namespace std;int main()&#123;    cout << "Hello World!"<< endl;    return 0;&#125;</code></pre><p>测试一下在hexo中写博客</p><img src="/2021/04/26/hello-hexo/test.jpg" class="" title="This is an example image">]]></content>
       
       
+      
+        <tags>
+            
+            <tag> java </tag>
+            
+            <tag> hexo </tag>
+            
+            <tag> markdown </tag>
+            
+        </tags>
       
     </entry>
     
