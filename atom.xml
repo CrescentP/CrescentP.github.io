@@ -6,7 +6,7 @@
   <link href="https://crescentp.github.io/atom.xml" rel="self"/>
   
   <link href="https://crescentp.github.io/"/>
-  <updated>2021-04-26T02:53:32.314Z</updated>
+  <updated>2021-04-28T12:02:53.519Z</updated>
   <id>https://crescentp.github.io/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>diary_4_28</title>
+    <link href="https://crescentp.github.io/2021/04/28/diary-4-28/"/>
+    <id>https://crescentp.github.io/2021/04/28/diary-4-28/</id>
+    <published>2021-04-28T11:55:16.000Z</published>
+    <updated>2021-04-28T12:02:53.519Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;现在是2021.04.28,刚才出了蓝桥杯的省赛成绩,江苏省二&lt;/p&gt;
+&lt;p&gt;最近一个月比赛的成绩:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ICPC昆明站打铁&lt;/li&gt;
+&lt;li&gt;蓝桥杯省二&lt;/li&gt;
+&lt;li&gt;GPLT省三&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;对于现在的成绩，心里并不太满意，但是</summary>
+        
+      
+    
+    
+    
+    
+    <category term="自我总结" scheme="https://crescentp.github.io/tags/%E8%87%AA%E6%88%91%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
   
   <entry>
     <title>hello hexo</title>
